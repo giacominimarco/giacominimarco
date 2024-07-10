@@ -3,16 +3,17 @@
 
 [pt-BR]
 
-Como desenvolvedor de software, sou apaixonado por tecnologia e inovação, sempre buscando aprender e aplicar novos conhecimentos. Com mais de 5 anos de experiência em desenvolvimento de software, tenho liderado equipes, prestado consultoria e lecionado na área de programação.
+Com 4 anos de experiência em desenvolvimento Web, sempre busco aprender e receber feedbacks construtivos para o melhoramento das minhas habilidades para trazer bons resultados do meu trabalho para a empresa.
 
-Destaco-me por minha habilidade em liderar equipes de desenvolvimento, resolução de problemas e trabalho em equipe em projetos inovadores. Em minhas experiências profissionais, tive a oportunidade de trabalhar em projetos desafiadores em grandes empresas como Oxygea, Infosys, Disys, BRY Tecnologia e Peixe Urbano.
+Em minhas experiências profissionais, tive a oportunidade de trabalhar em projetos desafiadores em grandes empresas como Tech6group e TDS Media Tecnology.
 
-Meu conhecimento técnico é amplo, abrangendo o desenvolvimento Frontend, Backend e Mobile, utilizando tecnologias como NodeJS, Python, Express, Flask, NestJS, FastAPI, ReactJS, React Native, Flutter, SQL, NOSQL, MySQL, PostgreSQL, MongoDB, DocumentDB, AWS Lambda, Redis, Docker, RDS, S3 e EC2. Sempre estou em busca de novas tecnologias para aprimorar minhas habilidades técnicas e estar atualizado para os desafios futuros.
+Meu conhecimento técnico é amplo, abrangendo o desenvolvimento Full Stack com foco em Backend, utilizando tecnologias como C#, TypeScript, JavaScript, Git, .NET, Microsoft SQL Server. E Estou em busca de novos desafios.
 
 [en-US]
 
-As a software developer, I am passionate about technology and innovation, always seeking to learn and apply new knowledge. With more than 5 years of experience in software development, I have led teams, provided consultancy and taught in the area of ​​programming.
+With 4 years of experience in Web development, I always seek to learn and receive constructive feedback to improve my skills to bring good results from my work for the company.
 
-I stand out for my ability to lead development teams, problem solving and teamwork on innovative projects. In my professional experiences, I had the opportunity to work on challenging projects in large companies such as Oxygea, Infosys, Disys, BRY Tecnologia and Peixe Urbano.
+In my professional experiences,
+I had the opportunity to work on challenging projects in large companies such as Tech6group and TDS Media Tecnology.
 
-My technical knowledge is broad, covering Frontend, Backend and Mobile development, using technologies such as NodeJS, Python, Express, Flask, NestJS, FastAPI, ReactJS, React Native, Flutter, SQL, NOSQL, MySQL, PostgreSQL, MongoDB, DocumentDB, AWS Lambda, Redis, Docker, RDS, S3 and EC2. I am always looking for new technologies to improve my technical skills and be up to date for future challenges.
+My technical knowledge is broad, covering Full Stack development with a focus on Backend, using technologies such as C#, TypeScript, JavaScript, Git, .NET, Microsoft SQL Server. And I'm looking for new challenges.
