@@ -3,7 +3,7 @@
 
 [pt-BR]
 
-Com 4 anos de experiência em desenvolvimento Web, sempre busco aprender e receber feedbacks construtivos para o melhoramento das minhas habilidades para trazer bons resultados do meu trabalho para a empresa.
+Com mais de 4 anos de experiência em desenvolvimento Web, sempre busco aprender e receber feedbacks construtivos para o melhoramento das minhas habilidades para trazer bons resultados do meu trabalho para a empresa.
 
 Em minhas experiências profissionais, tive a oportunidade de trabalhar em projetos desafiadores em grandes empresas como Tech6group e TDS Media Tecnology.
 
