@@ -3,7 +3,7 @@
 
 [pt-BR]
 
-Com mais de 4 anos de experiência em desenvolvimento Web, sempre busco aprender e receber feedbacks construtivos para o melhoramento das minhas habilidades para trazer bons resultados do meu trabalho para a empresa.
+Com mais de 5 anos de experiência em desenvolvimento Web, sempre busco aprender e receber feedbacks construtivos para o melhoramento das minhas habilidades para trazer bons resultados do meu trabalho para a empresa.
 
 Em minhas experiências profissionais, tive a oportunidade de trabalhar em projetos desafiadores em grandes empresas como Tech6group e TDS Media Tecnology.
 
@@ -11,7 +11,7 @@ Meu conhecimento técnico é amplo, abrangendo o desenvolvimento Full Stack com 
 
 [en-US]
 
-With 4 years of experience in Web development, I always seek to learn and receive constructive feedback to improve my skills to bring good results from my work for the company.
+With 5 years of experience in Web development, I always seek to learn and receive constructive feedback to improve my skills to bring good results from my work for the company.
 
 In my professional experiences,
 I had the opportunity to work on challenging projects in large companies such as Tech6group and TDS Media Tecnology.
